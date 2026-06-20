@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Task07",
+            "request": "launch",
+            "mainClass": "Lab09.HomeTask3.Task07",
+            "projectName": "New folder_7b8d1ac0"
+        },
+        {
+            "type": "java",
+            "name": "Task03",
+            "request": "launch",
+            "mainClass": "Lab09.Task3.Task03",
+            "projectName": "New folder_7b8d1ac0"
+        },
+        {
+            "type": "java",
+            "name": "Task02",
+            "request": "launch",
+            "mainClass": "Task02",
+            "projectName": "New folder_7b8d1ac0"
+        },
+        {
+            "type": "java",
+            "name": "Task02",
+            "request": "launch",
+            "mainClass": "Lab09.Task2.Task02",
+            "projectName": "New folder_7b8d1ac0"
+        },
+        {
+            "name": "CMake: CMake Script",
+            "type": "cmake",
+            "request": "launch",
+            "cmakeDebugType": "script",
+            "scriptPath": "${file}"
+        }
+    ]
+}
