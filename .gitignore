@@ -15,3 +15,13 @@ target/
 # OS files
 .DS_Store
 Thumbs.db
+
+# IntelliJ internal project files
+.idea/
+*.iml
+gen/
+
+# Log files and generated application data files
+*.txt
+*.dat
+*.properties
